@@ -1,1 +1,1 @@
-# iStore
+# iStore Solar - SANDPIT REPO
