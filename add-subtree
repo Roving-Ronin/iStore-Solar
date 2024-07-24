@@ -1,3 +1,0 @@
-git subtree add --prefix=static/dist/ git@github.com:wlcrs/huawei_solar main
-git subtree add --prefix=static/dist/ git@github.com:JensenNick/huawei_solar_pees main
-git subtree add --prefix=static/dist/ git@github.com:JensenNick/huawei_solar_stat main
