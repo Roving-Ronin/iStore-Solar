@@ -1,6 +1,0 @@
-site_name: iStore-Solar Documentation
-nav:
-  - Home: index.md
-  - About: about.md
-theme:
-  name: material
