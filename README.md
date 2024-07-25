@@ -14,3 +14,5 @@ Refer to [https://roving-ronin.github.io/iStore-Solar/index.html](https://roving
 ## Installation
 
 The card can be installed via HACS (recommended) or manually.
+
+TEST
